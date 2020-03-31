@@ -16,7 +16,9 @@ URL shortener
 
 * python3 gentiny.py o python3 gentiny2.py
 
-<img src="">
+<img src="https://github.com/AngelSecurityTeam/GenTiny/blob/master/img/gentiny.png">
+
+<img src="https://github.com/AngelSecurityTeam/GenTiny/blob/master/img/gentiny2.png">
 
 <h3> Paypal donations: </h3>
 
