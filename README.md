@@ -14,7 +14,7 @@ URL shortener
 
 * pip3 install requests
 
-* python3 gentiny.py o python3 gentiny2.py
+* python3 gentiny.py URL o python3 gentiny2.py
 
 <img src="https://github.com/AngelSecurityTeam/GenTiny/blob/master/img/gentiny.png">
 
